@@ -1,3 +1,7 @@
+
+
+
+
 .poppins-font{
   font-family: "Poppins", sans-serif;
   
@@ -7,4 +11,8 @@
 }
 .nav_bg{
   background-color: white;
+}
+
+.border_botom{
+  border-bottom: rgba(0, 0, 0, 0.422) dashed;
 }
